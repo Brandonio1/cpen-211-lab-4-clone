@@ -1,0 +1,3 @@
+partner1 and partner2 collaborated on converting the c code to arm assembly
+partner2 wrote a rough outline of the code
+partner1 debugged errors and added necessary adjustments to the code
